@@ -1,0 +1,18 @@
+body {
+    background-color: rgb(231, 241, 240);
+}
+
+h1:hover {
+    color: gold;
+}
+
+hr {
+    border: dotted rgb(242, 178, 148);
+    width: 15%;
+    border-width: .5em 0 0 0;
+}
+
+h1,
+h3 {
+    color: #66bfbf;
+}
